@@ -1,0 +1,14 @@
+types of dogs
+husky
+doberman
+greyhound
+pug
+boxer
+pitbull
+poodle
+german shepherd
+golden retriever
+bulldog
+beagle
+great dane
+chihuahua

@@ -1,0 +1,11 @@
+fruits
+apple
+pear
+pineapple
+plum 
+watermelon
+orange
+mango
+strawberries
+blueberries
+banana

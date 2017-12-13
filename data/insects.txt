@@ -1,0 +1,11 @@
+insects
+grasshopper
+bee
+beetle
+butterfly
+ant
+mosquito
+cricket
+ladybug
+hotnet
+moth

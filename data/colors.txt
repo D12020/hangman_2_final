@@ -1,0 +1,16 @@
+colors
+red
+green
+yellow
+blue
+orange
+green
+violet
+purple
+indigo
+pink
+magenta
+turquoise
+black
+white
+maroon
